@@ -72,20 +72,41 @@
 /*******/
 
 purple1 {
-    color: #B14AED
+    color: #B14AEDff
 }
 purple2 {
-    color: #CC1DEB
+    color: #CC1DEBff
 }
 russian_violet {
     color: #2b1a44ff
 }
+blue_violet {
+    color: #421d83ff
+}
+dark_purple {
+    color: #2a2139ff
+}
 red1 {
     color: #FB3640ff
+}
+orange_red {
+    color: #fe5f55ff
+}
+congo_pink {
+    color: #ec7970ff
 }
 oxford_blue {
     color: #0e122dff
 }
+electric_blue {
+    color: #87efffff;
+}
 shock_pink {
     color: #fe67f7ff
+}
+lime_green {
+    color: #6fcd3cff
+}
+emerald {
+    color: #00916eff
 }
