@@ -1,81 +1,11 @@
-/*****************/
-/* Tropical Neon */
-/*****************/
+/****************************/
+/*      Tropical Neon       */
+/****************************/
+/* 18 Colors of Awesomeness */
+/****************************/
 
-/* Modified Tropics */
---magic-mint: #a1fcdfff;
---illuminating-emerald: #00916eff;
---medium-orchid: #b14aedff;
---dark-purple: #2e1c2bff;
---orchid-pink: #f2bac9ff;
---red-munsell: #fa003fff;
---maya-blue: #78c3fbff;
---iris: #454adeff;
---persimmon: #ee6123ff;
---black-coffee: #37323eff;
-
-/* Modified Retrowave */
---phlox: #cc1debff;
---picotee-blue: #2a2594ff;
---red-salsa: #fb3640ff;
---lime-green: #6bd425ff;
---electric-blue: #87efffff;
---russian-violet: #2b1a44ff;
---oxford-blue: #0e122dff;
---shocking-pink-crayola: #fe67f7ff;
---blue-violet-color-wheel: #421d83ff;
---princeton-orange: #f58025ff;
-
-/* Retrowave */
---phlox: #cc1debff;
---picotee-blue: #2a2594ff;
---minion-yellow: #fee55cff;
---lime-green: #6fcd3cff;
---electric-blue: #87efffff;
---russian-violet: #2b1a44ff;
---oxford-blue: #0e122dff;
---shocking-pink-crayola: #fe67f7ff;
---blue-violet-color-wheel: #421d83ff;
---red: #f1100aff;
-
-/* Tropical Print */
---iris: #454adeff;
---magic-mint: #a1fcdfff;
---medium-orchid: #b14aedff;
---orchid-pink: #f2bac9ff;
---onyx: #424242ff;
---illuminating-emerald: #00916eff;
---persimmon: #ee6123ff;
---red-munsell: #fa003fff;
---dark-purple: #36213eff;
-
-/* Anon Floral */
---cadet-blue: #779fa1ff;
---dark-purple: #2a2139ff;
---paradise-pink: #e63462ff;
---orange-red-crayola: #fe5f55ff;
---mint-green: #85ff9eff;
---pink-lace: #fecee9ff;
---lavender-floral: #ae7df4ff;
---han-purple: #5e2bffff;
-
-/* Synthwave */
---dark-purple: #2a2139ff;
---mauve: #dca7faff;
---red-violet-crayola: #d12798ff;
---medium-aquamarine: #6ce1adff;
---platinum: #e7e6e9ff;
---congo-pink: #ec7970ff;
-
-/*******/
-/* CSS */
-/*******/
-
-purple1 {
-    color: #B14AEDff
-}
-purple2 {
-    color: #CC1DEBff
+dark_purple {
+    color: #2a2139ff
 }
 russian_violet {
     color: #2b1a44ff
@@ -83,11 +13,20 @@ russian_violet {
 blue_violet {
     color: #421d83ff
 }
-dark_purple {
-    color: #2a2139ff
+iris_purple {
+    color: #454adeff
+}
+purple1 {
+    color: #B14AEDff
+}
+phlox {
+    color: #CC1DEBff
 }
 red1 {
     color: #FB3640ff
+}
+shock_pink {
+    color: #fe67f7ff
 }
 orange_red {
     color: #fe5f55ff
@@ -98,15 +37,28 @@ congo_pink {
 oxford_blue {
     color: #0e122dff
 }
+picotee_blue {
+    color: #2a2594ff
+}
 electric_blue {
     color: #87efffff;
 }
-shock_pink {
-    color: #fe67f7ff
+magical_mint {
+    color: #a1fcdfff
+}
+emerald {
+    color: #00916eff
 }
 lime_green {
     color: #6fcd3cff
 }
-emerald {
-    color: #00916eff
+mint_green {
+    color: #85ff9eff
+}
+
+/**** CSS ****/
+
+body{
+    color: #2b1a44ff
+    text-color: #cc1debff
 }
